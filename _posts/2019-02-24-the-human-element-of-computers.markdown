@@ -3,6 +3,7 @@ layout: post
 title:  "The Human Element of Computers"
 date:   2019-02-23 21:15:18 -0700
 categories: testing
+published: false
 ---
 My father enrolled at ASU as a computer science major. Back home in Erie, he had developed a security program called "Hamburger Lock", and with his entrepreneurial spirit, he sold his program around town.
 
