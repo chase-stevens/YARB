@@ -3,7 +3,7 @@ layout: post
 title: "How to Ask a Question"
 date:   2019-03-01 21:15:18 -0700
 categories: etymology
-published: true
+published: false
 ---
 We all get stuck in programming. The difference between a novice and a master is how they overcome a roadblock.
 
