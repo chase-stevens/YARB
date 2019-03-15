@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "YARB"
-title_right   : "|Yet Another Ruby Blog" # default: ""
+title_right   : "|Yet Another Rails Blog" # default: ""
 description   : "Chase Stevens"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://heiswayi.github.io/thinkspace # site url

@@ -100,10 +100,10 @@ hr {
   letter-spacing: 0.8px;
   font-size: 20px;
   line-height: 28px;
-  font-weight: 300;
+  font-weight: 700;
 
   span {
-    font-weight: 700;
+    font-weight: 300;
   }
 }
 
@@ -132,7 +132,7 @@ hr {
 .category-title {
   margin: 1em 0 0.5em 0;
   text-transform: uppercase;
-  
+
   &:first-child {
     margin-top: 0;
   }
