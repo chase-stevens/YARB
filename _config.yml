@@ -3,7 +3,7 @@ title_left    : "YARB"
 title_right   : "|Yet Another Rails Blog" # default: ""
 description   : "Chase Stevens"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://boring-wing-e49c1a.netlify.com/ # site url
+url           : chasestevens.dev # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
