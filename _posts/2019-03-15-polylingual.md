@@ -3,6 +3,7 @@ layout: post
 title: "Branching Out into Other Languages"
 date:   2019-03-15 18:15:18 -0700
 categories: etymology
+description: Making the case that adding another language to your programming knowledge is beneficial.
 ---
 
 No software engineer who has been in the industry for more than 10 years has only learned one language.

@@ -3,6 +3,7 @@ layout: post
 title:  "Getting Started with Test Driven Development"
 date:   2019-02-05 00:00:00 -0700
 categories: testing
+description: A crash course on how to make software using test driven development.
 ---
 Test Driven Development is considered to be a best practice in the software industry, yet many teams ship code without tests.
 

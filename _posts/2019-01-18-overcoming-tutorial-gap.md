@@ -3,6 +3,7 @@ layout: post
 title: Overcoming the Tutorial Gap and Making Your Own Software
 date:   2019-01-18 00:00:00 -0700
 categories: beginner discuss productivity
+description: A guide on different methods and tactics to level up from doing programming tutorials.
 ---
 
 When learning to code, it's easy to fall into what some have named the "Tutorial Rut". There's so much to learn and so much content to follow along with that you churn out tutorial after tutorial, running through the motions and working out your fingers without getting to the root of software development and tapping into the flow of creation.
