@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overcoming the Tutorial Gap and Making Your Own Software
-date:   2019-02-23 21:15:18 -0700
+date:   2019-01-18 00:00:00 -0700
 categories: beginner discuss productivity
 ---
 

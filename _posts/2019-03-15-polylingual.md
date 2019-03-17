@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Branching Out into Other Languages"
-date:   2019-02-28 21:15:18 -0700
+date:   2019-03-15 18:15:18 -0700
 categories: etymology
 ---
 
 No software engineer who has been in the industry for more than 10 years has only learned one language.
 
-Each language has its own tradeoffs and considerations.
+Each language has its own tradeoffs and considerations. Some are more closely related than others
 
 Learning Ruby after you learned Python will have a lot more crossover than learning C++ after Python.
 
@@ -17,12 +17,25 @@ Learning your first programming language goes hand in hand with learning how to 
 
 As you program more and develop a deeper understanding of what it means to program, sooner or later you'll write code in another language. You'll notice that some are more similar than others.
 
+For example, let's take a look at declaring a function that takes in an integer and returns that integer squared.
+
 ```python
-print("Hello, world!")
+def square(x):
+    return x * x
 ```
 
 ```ruby
-puts "Hello, world!"
+def square(x)
+  x * x
+end
+```
+
+Even among these similar languages, we see a few key syntactical differences. First, the Python function uses a colon to declare the function, and requires adequate whitespace for the body of the square function.
+
+Looking at the square function in ruby, we notice that while the `def` keyword is the same as Python, and the code almost looks like Python, a lot has changed. The first difference is that the `:` is gone. Additionally, the body of the function is only indented two spaces instead of four. This is due to convention and not for any technical reason. You could indent your code four spaces. You could also not use any new lines at all. The follow is a perfectly valid function declaration that the Ruby compiler will accept and use (but your coworkers might flag it during a code review):
+
+```ruby
+def square(x) x * x end
 ```
 
 but maybe you notice that `puts("Hello, world!")` works as well.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Started with Test Driven Development"
-date:   2019-02-23 21:15:18 -0700
+date:   2019-02-05 00:00:00 -0700
 categories: testing
 ---
 Test Driven Development is considered to be a best practice in the software industry, yet many teams ship code without tests.
