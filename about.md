@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
+description: About me
 ---
 
 Hi, my name is Chase, and I'm a Ruby on Rails developer. I ship code at [Printed Mint](https://printedmint.com).
